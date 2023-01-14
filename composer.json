@@ -1,0 +1,10 @@
+{
+  "name": "pfigz/php-form-widget",
+  "autoload": {
+    "psr-4": {
+      "Pfigz\\PhpFormWidget\\": "src/",
+      "FormClasses\\": "src/FormClasses"
+    }
+  },
+  "require": {}
+}
